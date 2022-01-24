@@ -50,7 +50,7 @@ Maak zeker ook gebruik van volgende documenten:
 
 **Kerncijfers voor doelgroepen**
 
-- Vb. Buurtgerichte zorg, Eerstelijszones
+- Vb. Buurtgerichte zorg, Eerstelijnszones
 - Beschikbaar op niveau van een bepaalde werking
 - Technisch aanstuurbaar via gemeente
 
